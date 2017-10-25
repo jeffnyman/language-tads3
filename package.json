@@ -1,0 +1,17 @@
+{
+  "name": "language-tads3",
+  "version": "0.1.0",
+  "description": "TADS 3 Language Support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffnyman/language-tads3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeffnyman/language-tads3/issues"
+  },
+  "license": "MIT"
+}
