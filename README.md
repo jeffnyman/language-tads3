@@ -6,7 +6,7 @@ TADS 3 Language Grammar for Atom
 
 This package permits syntax coloring of [TADS 3][t3] source code in the [Atom][] editor. This should also work with compatible syntax colorers, like TextMate 2 or Sublime, with some appropriate changes for the particulars of how grammar files are specified.
 
-Note that this package does not deal with [TADS 3][t2].
+Note that this package does not deal with [TADS 2][t2].
 
 [t3]: http://tads.org/
 [t2]: http://tads.org/tads2.htm
